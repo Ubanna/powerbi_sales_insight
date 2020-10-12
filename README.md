@@ -2,4 +2,4 @@
 
 <br />
 
-<img width="250px" height="250px" alt="Mobile Screen Sales Insight" src="./mobilescreen.jpg" />
+<img width="600px" height="600px" alt="Mobile Screen Sales Insight" src="./mobilescreen.jpg" />
